@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #form-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  #form-login label {
+    margin-top: 10px;
+  }
+  
+  #form-login input[type="text"], #form-login input[type="password"] {
+    padding: 5px;
+    margin-top: 10px;
+  }
+  
+  #form-login input[type="submit"] {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
