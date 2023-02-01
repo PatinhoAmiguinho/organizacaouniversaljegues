@@ -2,7 +2,6 @@
 firebase.initializeApp({
     apiKey: "AIzaSyCy6aj1ufnGB3UcIm6h_ovclx3Zi9ShMtU",
     authDomain: "jegueproject-8c18d.firebaseapp.com",
-    databaseURL: "https://jegueproject.firebaseio.com/",
     projectId: "jegueproject-8c18d",
     storageBucket: "jegueproject-8c18d.appspot.com",
     messagingSenderId: "364972448163",
